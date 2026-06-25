@@ -22,6 +22,7 @@ The platform's standout innovation is its **Dynamic Seller Loyalty Tier Progress
 * **Backend Logic:** Java SE (JDK 11+)
 * **Database Engine:** MySQL Enterprise / MariaDB (via phpMyAdmin)
 * **Database Connectivity:** JDBC (Java Database Connectivity API)
+* **Notification System:** Java Mail API
 * **Architecture Pattern:** Data Access Object (DAO) Design Pattern
 
 ---
