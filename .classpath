@@ -8,5 +8,7 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/OOP/PROJECT_UNIVERSE/UNIVERSE-GIG-MARKETPLACE/lib/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/OOP/PROJECT_UNIVERSE/UNIVERSE-GIG-MARKETPLACE/lib/flatlaf-3.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/OOP/PROJECT_UNIVERSE/UNIVERSE-GIG-MARKETPLACE/lib/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/OOP/PROJECT_UNIVERSE/UNIVERSE-GIG-MARKETPLACE/lib/activation-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
